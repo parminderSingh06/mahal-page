@@ -21,6 +21,11 @@ body{
     font-size: 24px;
 }
 
+.header img{
+    width:200px;
+    height: 100px;
+}
+
 ul{
     list-style: none;
     display: flex;
